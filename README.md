@@ -22,11 +22,11 @@
 
 ### :man_technologist: About Me :
 I'm a Full Stack Developer from Uruguay.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :zap:I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
+- :zap: I work as a Software Engineer and contributing to frontend and backend to build web and mobile applications.
 
-- :telescope: Exploring and Learning Machine Learning.
+- :telescope: I explore and learn Machine Learning.
 
-- :seedling: In my free time, I'm trying to continue learning about new technologies.
+- :seedling: In my free time, I try to continue learning about new technologies.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sebastianbarcelona-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/sebastian-barcelona-01565297/))
 
